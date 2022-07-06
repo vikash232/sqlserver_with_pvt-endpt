@@ -4,12 +4,12 @@
 
 This Terraform code will deploy the following resource
 
-* Resource Group, VNET, Subnet
+- Resource Group, VNET, Subnet
 
-* DNS records, and Endpoints
+- DNS records, and Endpoints
 
-* SQL Server instance and SQL Server database
+- SQL Server instance and SQL Server database
 
 Blog Post --> https://gmusumeci.medium.com/how-to-deploy-an-azure-sql-server-instance-with-a-private-endpoint-using-terraform-815a19b7f0ec
-"# sqlserver_with_pvt-endpt" 
-"# sqlserver_with_pvt-endpt" 
+
+** sqlserver_with_pvt-endpt **
